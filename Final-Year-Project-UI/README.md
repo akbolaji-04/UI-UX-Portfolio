@@ -12,7 +12,7 @@ It is designed to be **user-friendly, responsive, and visually appealing**, ensu
 
 ## 🖼 Preview  
 Here’s a preview of the UI design:  
-![Final Year Project UI](./Project_UI.png)  
+![Final Year Project UI](./Techquest.jpg)  
 
 ## 🔗 View Full Design  
 Click below to explore the complete Figma design:  
