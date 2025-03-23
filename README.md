@@ -16,8 +16,14 @@ I have experience in:
 🚀 Soft Skills: Creativity, Problem-solving, Time Management, Communication, Attention to Detail
 
 📂 Projects in This Portfolio
+
+
 2️⃣ Final Year Project (In Progress) – A web application developed using HTML, CSS, and JavaScript (with GitHub repo link).
+
+
 3️⃣ Shadow Styles (PC UI Design) – A desktop-focused UI design for an e-commerce platform.
+
+
 4️⃣ PayLio (Mobile UI Concept) – A digital wallet and finance app prototype.
 
 🔗 View Portfolio Here
