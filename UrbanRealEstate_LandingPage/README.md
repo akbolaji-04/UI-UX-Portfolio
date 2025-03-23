@@ -19,7 +19,7 @@ This is a **modern and sleek landing page design** for a real estate company. Th
 👉 [Figma Link Here](#) _(https://www.figma.com/design/1bb6HcO8N6FcMPGd9lmgDJ/Untitled?node-id=0-1&t=P21ey55r2es09hgb-1)_  
 
 ## 📸 Preview  
-_()_  
+_(./estate.png)_  
 
 ---
 
