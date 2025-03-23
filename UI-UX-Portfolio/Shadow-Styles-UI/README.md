@@ -12,7 +12,7 @@ The project is **UI-focused**, meaning **no functionality has been implemented y
 
 ## 🖼 Preview  
 Here’s a preview of the UI design:  
-![Shadow Styles UI](./Shadow_Styles_UI.png)  
+![Shadow Styles UI](./shadowstyles.jpg)  
 
 ## 🔗 View Full Design  
 👉 [View Figma Design](https://www.figma.com/proto/NbkBYZA1lLebaDS3LDww2L/Shadow-Remake?page-id=0%3A1&node-id=1-2&viewport=-794%2C102%2C0.13&t=fSKRKERcUDPE2zHU-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)  
