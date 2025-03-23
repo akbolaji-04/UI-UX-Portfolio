@@ -1,7 +1,11 @@
 # 🎓 Final Year Project - UI/UX Design
 
 ## 📌 Project Overview  
-This is the **UI/UX design** for my final year project, which focuses on [briefly describe your project topic].  
+This is the UI/UX design and development for my final year project, which is still in progress. The project focuses on designing an intuitive and user-friendly interface for [TechQuest APP].
+
+The UI/UX design was created using Figma, prioritizing modern aesthetics, accessibility, and functionality to ensure a seamless user experience. The design includes structured navigation, a clean layout, and interactive elements to enhance usability.
+
+For development, the project is being built using HTML, CSS, and JavaScript, with a structured codebase to bring the design to life.
 It is designed to be **user-friendly, responsive, and visually appealing**, ensuring seamless interaction.  
 
 ## 🎨 Design Details  
